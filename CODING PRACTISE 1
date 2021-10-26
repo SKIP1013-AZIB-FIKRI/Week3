@@ -1,0 +1,35 @@
+package numericData;
+
+public class Exercise1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int no1 = 11;
+		int no2 = 22;
+		int no3 = 33;
+		int no4 = 44;
+		int no5 = 55;
+		int sum;
+		int average;
+		double div, no6 = 66 , no7 = 77;
+		float no8 = 88, no9 = 200 , div2 ;
+		sum = no1 + no2 + no3 + no4 + no5;
+		average = sum/5 ;
+		div = no8/no6;
+		div2 = no9 / no8 ;
+		double mult ;
+		float mult2 ;
+		
+		mult2 = (no1 * no2)/ no3 ;
+		
+		mult = no1*no2*no3*no4*no5*no6*no7*no8*no9 ;
+		System.out.printf("The sum is %d\n", sum); //%d keluarkan balik nilai dari variable sum
+		System.out.println ("The average is " + average);
+		System.out.printf ("The divide number is: %.2f \n" , div );
+		System.out.printf ("Float number is: %.2f", div2);
+		System.out.printf ( "\nThe multiply is : %.4f", mult);
+		System.out.printf("\n The total is : %.2f", mult2);
+		
+	}
+
+}
