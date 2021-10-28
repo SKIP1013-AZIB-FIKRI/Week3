@@ -1,0 +1,30 @@
+Please enter your balance acc bank : 100
+This your balance in your bank : RM 100.0
+Please enter amount you want : 90
+This is amount that you want : RM 90.0
+This your remaining balance in your bank account : RM 10.0
+ Do you want to proceed : y
+
+ YES yn
+
+ NO n
+Please enter your name : Azib
+ Hi Mr/Mrs Azib
+ Please enter amount : 1
+
+The amount you enter is :  RM 1 
+Please enter amount : 2
+
+The amount you enter is :  RM 2 
+Please enter amount : 3
+
+The amount you enter is :  RM 3 
+Please enter amount : 4
+
+The amount you enter is :  RM 4 
+Please enter amount : 5
+
+The amount you enter is :  RM 5 
+Please enter amount : 6
+
+The amount you enter is :  RM 6
